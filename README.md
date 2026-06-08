@@ -15,7 +15,7 @@ You can open this project in Unity (Version 6000.3.10f1), tweak the particle sys
 It’s a highly satisfying sight with simple rules for cell life.
 You can do whatever you want with this project; I decided to post it, but just know that this is Alex Lowen’s first open-source project ;)
 
-If you’re interested in seeing what the final game will look like or just want to follow the development, here’s my channel—videos are coming soon:
+If you’re interested in seeing what the final game will look like or just want to follow the development, here’s my channel - videos are coming soon:
 * https://www.youtube.com/@Zelektor/videos
 
 P.S. I’m not a YouTuber, this is my studio’s channel, so you can help it grow!
